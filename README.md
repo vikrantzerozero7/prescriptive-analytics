@@ -6,9 +6,8 @@ Download sample data file from  https://drive.google.com/file/d/1WERrd0WxfI18X_X
 # Overview
 A Streamlit web application that solves transportation cost optimization problems using linear programming with PuLP. The app minimizes transportation costs by optimally allocating shipments from warehouses to customers.
 
-# App link: <a href="https://prescriptive-analytics-mdrgm8e64jj7sxy62nmaf3.streamlit.app/" target="_blank" rel="noopener noreferrer">
-  Transportation cost optimization app
-</a>
+# App link: <a href="https://prescriptive-analytics-mdrgm8e64jj7sxy62nmaf3.streamlit.app/" target="_blank">Open Transportation Cost Optimization App</a>
+
 # Features
 Cost Optimization: Uses linear programming to minimize transportation costs
 
