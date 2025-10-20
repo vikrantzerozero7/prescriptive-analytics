@@ -1,0 +1,6 @@
+openpyxl
+numpy
+pandas
+streamlit
+PuLP
+pillow
