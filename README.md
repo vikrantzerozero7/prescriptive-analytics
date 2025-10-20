@@ -1,4 +1,8 @@
 # Transportation Cost Optimization App
+
+# Sample Data
+Download sample data file from  https://drive.google.com/file/d/1WERrd0WxfI18X_XIBe6NyAMGwle-LbIy/view?usp=sharing
+
 # Overview
 A Streamlit web application that solves transportation cost optimization problems using linear programming with PuLP. The app minimizes transportation costs by optimally allocating shipments from warehouses to customers.
 
@@ -83,8 +87,6 @@ Frontend: Streamlit
 
 Optimization: Linear Programming
 
-# Sample Data
-Download sample data file from  https://drive.google.com/file/d/1WERrd0WxfI18X_XIBe6NyAMGwle-LbIy/view?usp=sharing
 
 # Author
 Vikrant Nikunj - Data Science Enthusiast
